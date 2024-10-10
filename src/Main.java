@@ -15,6 +15,7 @@ public class Main {
             //hgvhgvhgv2
             System.out.println("co ja robie tu, uuuuuuus");
             //sfdfsdsd
+            System.out.println("tu byl wczesniejszy commit ale juz go nie ma");
         }
     }
 }
