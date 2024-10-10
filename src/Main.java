@@ -17,6 +17,7 @@ public class Main {
             //sfdfsdsd
             System.out.println("tu byl wczesniejszy commit ale juz go nie ma");
             System.out.println("nowy feature");
+            System.out.println("nowy feature2");
         }
     }
 }
