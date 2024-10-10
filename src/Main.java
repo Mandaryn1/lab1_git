@@ -13,7 +13,7 @@ public class Main {
             //hbjhbjh
             //hgvhgvhgv
             //hgvhgvhgv2
-            System.out.println("co ja robie tu");
+            System.out.println("co ja robie tu, uuuuu");
         }
     }
 }
