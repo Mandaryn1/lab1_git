@@ -16,6 +16,7 @@ public class Main {
             System.out.println("co ja robie tu, uuuuuuus");
             //sfdfsdsd
             System.out.println("tu byl wczesniejszy commit ale juz go nie ma");
+            System.out.println("nowy feature");
         }
     }
 }
